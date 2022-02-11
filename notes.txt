@@ -1,0 +1,10 @@
+Module Federation :- 
+This is feature available with webpack 5.
+
+It comes alongwith app when created using pnpx.
+
+Nomenclature:-
+
+Remote :- The component or function or state where it is defined for example Home page
+
+Host :- The repo where we will be using the remote component or function or state known as host for example PDP
